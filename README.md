@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirk Ivan Tijol</h1>
 <h3 align="center">Aspiring IT Professional</h3>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/kirkivantijol](https://bit.ly/kirkivantijol)
+- 👨‍💻 My Portfolio Link: [https://bit.ly/kirkivantijol](https://bit.ly/kirkivantijol)
 
 - 📫 How to reach me **kirktijol4@gmail.com**
 
