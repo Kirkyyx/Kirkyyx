@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirk Ivan Tijol</h1>
-<h3 align="center">Aspiring IT Professional</h3>
+<h3 align="center">Software Developer</h3>
 
 - 👨‍💻 My Portfolio Link: [https://bit.ly/kirkivantijol](https://bit.ly/kirkivantijol)
 
