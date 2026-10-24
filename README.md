@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirk Ivan Tijol</h1>
 
-
-- 👨‍💻 My Portfolio Link: [https://bit.ly/kirkivantijol](https://bit.ly/kirkivantijol)
-
 - 📫 How to reach me **kirktijol4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
